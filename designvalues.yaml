@@ -1,0 +1,21 @@
+---
+- Aluminum:
+   - ti-183819:
+      DFR: 32
+      shot-peened: true
+      thickness": "1mm"
+   - ti-1231313:
+      DFR: 25
+      shot-peened: false
+      thickness: ">= 0.31mm"
+  Steel:
+   - st-123458:
+      DFR: 78
+      shot-peened: false
+      heat-treated: true
+      thickness: " < 2cm"
+   - st-999099:
+      DFR: 200
+      shot-peened: true
+      heat-treated: false
+      thickness: " > 2cm"
