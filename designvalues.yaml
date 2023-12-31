@@ -1,21 +1,31 @@
 ---
 - Aluminum:
-   - ti-183819:
-      DFR: 32
-      shot-peened: true
-      thickness": "1mm"
-   - ti-1231313:
-      DFR: 25
-      shot-peened: false
-      thickness: ">= 0.31mm"
+     ti-183819:
+        Alloy: ti-183819
+        DFR: 32
+        shot-peened: true
+        thickness: "1mm"
+        additional-notes: "a short note that fits on one line"
+        flags: [1, 5, 8]
+     ti-1231313:
+        Alloy: ti-1231313
+        DFR: 25
+        shot-peened: false
+        thickness: ">= 0.31mm"
+        additional-notes: >
+          hello this is a special note from billibob, yada yada
+          something i couldn't communcate in the normal format.
+        flags: [2, 3]
   Steel:
-   - st-123458:
-      DFR: 78
-      shot-peened: false
-      heat-treated: true
-      thickness: " < 2cm"
-   - st-999099:
-      DFR: 200
-      shot-peened: true
-      heat-treated: false
-      thickness: " > 2cm"
+     st-123458:
+        Alloy: st-123458
+        DFR: 78
+        shot-peened: false
+        heat-treated: true
+        thickness: " < 2cm"
+     st-999099:
+        Alloy: st-999099
+        DFR: 200
+        shot-peened: true
+        heat-treated: false
+        thickness: " > 2cm"
