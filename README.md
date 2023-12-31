@@ -9,6 +9,6 @@ Any changes to the source of truth `designvalues.yaml` are recorded in git, givi
 
 # [make](./Makefile)
 A command runner and build tool.  
-example usage: `$ make lint-dv` to verify `designvalues.yaml` conforms to yaml spec.
-example usage: `$ make generate-book` to generate markdown book populated with yaml design values.
+example usage: `$ make lint-dv` to verify `designvalues.yaml` conforms to yaml spec.  
+example usage: `$ make generate-book` to generate markdown book populated with yaml design values.  
 
