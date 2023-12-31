@@ -25,7 +25,7 @@
         thickness: " < 2cm"
      st-999099:
         Alloy: st-999099
-        DFR: 200
+        DFR: 202
         shot-peened: true
         heat-treated: false
         thickness: " > 2cm"

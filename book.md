@@ -7,4 +7,4 @@
 | Alloy | DFR | heat-treated | shot-peened | thickness |
 | --- | --- | --- | --- | --- |
 |  st-123458 | 78 | True | False | < 2cm |
-|  st-999099 | 200 | False | True | > 2cm |
+|  st-999099 | 202 | False | True | > 2cm |
