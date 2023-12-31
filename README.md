@@ -6,3 +6,9 @@ The [designvalues.yaml](./designvalues.yaml) is the final source of truth for th
 
 Any changes to the source of truth `designvalues.yaml` are recorded in git, giving a full history of the values, when they were changed, who changed, and any discussion around the change. If the same line was changed multiple times, the history of each change is preserved.
 
+
+# [make](./Makefile)
+A command runner and build tool.  
+example usage: `$ make lint-dv` to verify `designvalues.yaml` conforms to yaml spec.
+example usage: `$ make generate-book` to generate markdown book populated with yaml design values.
+
