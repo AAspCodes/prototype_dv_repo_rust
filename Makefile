@@ -5,3 +5,6 @@ lint-dv:
 generate-book:
 	# generate markdown book populated with yaml design values
 
+save-requirements:
+	# save python enviroment requirements to requirements.txt
+	pip list > requirements.txt
