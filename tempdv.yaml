@@ -1,0 +1,6 @@
+- name: Aluminum
+  rows:
+    ti-183819:
+      shot-peened: 'true'
+      DFR: '32'
+      Alloy: ti-183819
