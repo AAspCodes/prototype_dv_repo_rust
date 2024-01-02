@@ -1,0 +1,6 @@
+[book]
+authors = ["Anthony Asp"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Design-Values-Book"
