@@ -7,6 +7,11 @@
         thickness: "1mm"
         additional-notes: "a short note that fits on one line"
         flags: [1, 5, 8]
+     ti-183828:
+        Alloy: ti-183828
+        DFR: 31
+        shot-peened: true
+        thickness: "2mm"
      ti-1231313:
         Alloy: ti-1231313
         DFR: 25
