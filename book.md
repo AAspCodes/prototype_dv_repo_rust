@@ -2,6 +2,7 @@
 | Alloy | DFR | additional-notes | flags | shot-peened | thickness |
 | --- | --- | --- | --- | --- | --- |
 |  ti-183819 | 32 | a short note that fits on one line | [1, 5, 8] | True | 1mm |
+|  ti-183828 | 31 | | | True | 2mm |
 |  ti-1231313 | 25 | hello this is a special note from billibob, yada yada something i couldn't communcate in the normal format. | [2, 3] | False | >= 0.31mm |
 # Steel 
 | Alloy | DFR | heat-treated | shot-peened | thickness |
